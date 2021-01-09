@@ -1,2 +1,2 @@
 # KeyLogger
-Keylogger keep track of keyboard key pressed by victims.
+Python program to capture keyboards key pressed by person!
